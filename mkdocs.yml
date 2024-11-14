@@ -1,4 +1,36 @@
-site_name: My Docs
+site_name: Black Nexus Technologies
+site_description: News & Upcoming Releases
+site_url: https://blacknexustechnologies.pages.dev/
 
 theme:
   name: material
+  features: 
+    - navigation.sections
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins: 
+  - search
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+
+
