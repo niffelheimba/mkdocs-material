@@ -6,19 +6,26 @@ theme:
   name: material
   features: 
     - navigation.sections
+    - navigations.tabs
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
 
 plugins: 
   - search
@@ -32,5 +39,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Servers: 
+    - Abiotic Factor:
+    - Arma 3:
+    - Satisfactory:
+  - Hardware Troubleshooting:
 
 
