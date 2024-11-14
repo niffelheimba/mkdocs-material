@@ -40,9 +40,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Servers: 
-    - Abiotic Factor:
-    - Arma 3:
-    - Satisfactory:
-  - Hardware Troubleshooting:
+    - Abiotic Factor: index.md
+    - Arma 3: index.md
+    - Satisfactory: index.md
+  - Hardware Troubleshooting: 
 
 
