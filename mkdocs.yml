@@ -6,7 +6,8 @@ theme:
   name: material
   features: 
     - navigation.sections
-    - navigations.tabs
+    - navigation.tabs
+    - navigation.path
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
