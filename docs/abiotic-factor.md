@@ -1,18 +1,7 @@
-# Welcome to MkDocs
+# Our Available Servers 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.
 
-## Commands
+https://store.steampowered.com/app/427410/Abiotic_Factor/
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-* tanner is so fat and now the world knows lol
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Connect Here

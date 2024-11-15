@@ -1,18 +1,7 @@
-# Welcome to MkDocs
+# Arma 3 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Deploying a wide variety of single- and multiplayer content, over 20 vehicles and 40 weapons, and limitless opportunities for content creation, this is the PC’s premier military game. Authentic, diverse, open - Arma 3 sends you to war.
 
-## Commands
+https://store.steampowered.com/app/107410/Arma_3/
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-* tanner is so fat and now the world knows lol
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Connect Here
